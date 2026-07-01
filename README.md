@@ -3,4 +3,4 @@ This repository contains the content which i used to prepare for my AZURE -900 C
 
 AI SKILLS FEST
 
-MICROSOFT 2026
+#MICROSOFT 2026
